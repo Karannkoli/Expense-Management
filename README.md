@@ -69,5 +69,5 @@ This project is open-source. You’re free to use and modify it.
 ## Dashboard Overview
 You can download the Power BI (.pbix) file from the link below:
 
-[Download Power BI Dashboard (.pbix)](https://github.com/username/repositoryname/blob/main/filename.pbix)
+[Download Power BI Dashboard (.pbix)](https://github.com/Karannkoli/Expense-Management/blob/main/Expense_Management_Dashboard.pbix)
 
